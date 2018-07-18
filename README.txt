@@ -1,5 +1,5 @@
-# === Plugin Name ===
-Contributors: (inrashad <inrashad@gmail.com>)
+=== Plugin Name ===
+Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://github.com/inrashad
 Tags: comments, spam
 Requires at least: 3.0.1
@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Wordpress Point of Sales Plugins
+Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
 == Description ==
 
-Wordpress Point of Sales Plugins.  No limit, and you can use Markdown (as well as in the following sections).
+This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
 Markdown parsed.
